@@ -16,7 +16,7 @@ O aplicativo proposto se trata de um simples cadastro de alunos com nome, telefo
 Se trata do desenvolvimento de somento duas telas, como apresentado a seguir:
 
 ## Tela incial com a lista de alunos cadastrados:
-<img alt="Desing Tela Inical da lista de alunos" title="#ListaAlunos" src="./imagens/layout_tela_lista_alunos.png" />
+<img alt="Desing Tela Inical da lista de alunos" title="#ListaAlunos" src="./imagens/layout_tela_lista_alunos.png" width="200px" heigh="200px"/>
 
 ## Tela de cadastro de alunos:
 <img alt="Desing Tela de cadastro de alunos" title="#CadastroAlunos" src="./imagens/layout_tela_novo_aluno.png" />
